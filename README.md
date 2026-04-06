@@ -118,17 +118,26 @@ fn main() {
 
 ### 🚀 My Projects  
 
-| [![SHADOW-AI](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=SHADOW-AI&theme=github_dark)](https://github.com/Utkarshjha09/SHADOW-AI) | [![RoadSense-](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=RoadSense-&theme=github_dark)](https://github.com/Utkarshjha09/RoadSense-) |
-| --- | --- |
-| 🔗 **Live Website:** https://roadsense.live | 🤖 AI-powered assistant system |
-| 📱 **App + Web Project** | |
+### 🤖 AI & Smart Systems
+| Project | Description |
+|--------|------------|
+| [![SHADOW-AI](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=SHADOW-AI&theme=github_dark)](https://github.com/Utkarshjha09/SHADOW-AI) | 🤖 AI-powered assistant system |
 
-| [![B-Mate](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=B-Mate&theme=github_dark)](https://github.com/Utkarshjha09/B-Mate) | [![ESP32-Blynk-Notification-System](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=ESP32-Blynk-Notification-System&theme=github_dark)](https://github.com/Utkarshjha09/ESP32-Blynk-Notification-System) |
-| --- | --- |
-| 📲 **Download App:** [B-Mate APK](https://github.com/Utkarshjha09/B-Mate/blob/cada926a7ccda263f4e1bd15d67c623962ae057d/application-b31b28ae-7d94-40a0-9b84-a0fa5b2262a4.apk) | 📡 IoT Notification System |
+---
 
-| [![FaceRecognitionSystem](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=FaceRecognitionSystem&theme=github_dark)](https://github.com/Utkarshjha09/FaceRecognitionSystem) |  |
-| --- | --- |
+### 🌐 Web + App Projects
+| Project | Links |
+|--------|-------|
+| [![RoadSense-](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=RoadSense-&theme=github_dark)](https://github.com/Utkarshjha09/RoadSense-) | 🔗 **Live:** https://roadsense.live <br> 📱 App + Web Project |
+| [![B-Mate](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=B-Mate&theme=github_dark)](https://github.com/Utkarshjha09/B-Mate) | 📲 **Download App:** [B-Mate APK](https://github.com/Utkarshjha09/B-Mate/raw/main/application-b31b28ae-7d94-40a0-9b84-a0fa5b2262a4.apk) |
+
+---
+
+### ⚙️ Other Projects
+| Project | Description |
+|--------|------------|
+| [![ESP32-Blynk-Notification-System](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=ESP32-Blynk-Notification-System&theme=github_dark)](https://github.com/Utkarshjha09/ESP32-Blynk-Notification-System) | 📡 IoT Notification System |
+| [![FaceRecognitionSystem](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=FaceRecognitionSystem&theme=github_dark)](https://github.com/Utkarshjha09/FaceRecognitionSystem) | 👁️ Face Recognition System |
 
 ---
 
