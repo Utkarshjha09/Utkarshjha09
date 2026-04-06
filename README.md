@@ -96,7 +96,7 @@ fn main() {
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-7B2FBE?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-7B2FBE?style=for-thce-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic_Claude-7B2FBE?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -213,7 +213,7 @@ current_interests = {
     "Edge AI":         ["TFLite on Raspberry Pi", "ESP32 + ML inference"],
 }
 
-print("Always building. Always learning. 🚀")
+print("Build . Break . Learn . Repeat 🚀")
 ```
 
 ---
